@@ -1,7 +1,7 @@
-package kz.aitu.oop.assignment4;
+package kz.aitu.oop.Project;
 
 public class Time {
-    private long start_time;
+    private long start_time; //Time in miliseconds where we start counting
     private long finish_time;
     public void start(){
         start_time = System.currentTimeMillis();
