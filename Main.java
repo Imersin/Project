@@ -1,4 +1,5 @@
-package kz.aitu.oop.assignment4;
+package kz.aitu.oop.Project;
+
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
