@@ -1,4 +1,5 @@
-package kz.aitu.oop.assignment4;
+package kz.aitu.oop.Project;
+
 import java.util.Random;
 import java.util.Scanner;
 import java.sql.*;
