@@ -1,5 +1,7 @@
+
 package kz.aitu.oop.Project; //package name
 import java.util.Scanner; //importing Scanner library
+
 public class Main {
     public static void main(String[] args) {
         Db my_database = new Db();

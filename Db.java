@@ -3,6 +3,7 @@ import java.util.Random; //importing Random library
 import java.util.Scanner; //importing Scanner library
 import java.sql.*; //importing SQL library
 
+
 public class Db implements BaseConnect{ //class Db has interface BaseConnect
     Db(){
     }
