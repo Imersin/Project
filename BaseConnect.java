@@ -1,6 +1,6 @@
-package kz.aitu.oop.assignment4;
+package kz.aitu.oop.Project; //package name
 
-interface BaseConnect {
-    public void connect(String url, String user, String password);
-    public void execSQL(String sql);
+interface BaseConnect { //declaration of interface
+    public void connect(String url, String user, String password); //connection to DBMS
+    public void execSQL(String sql); //Executing SQL query
 }
